@@ -1,0 +1,17 @@
+name: VanishPlayer
+main: hide92795.bukkit.plugin.vanishplayer.VanishPlayer
+version: 1.5.2_1
+description: Vanish player
+author: hide92795
+depend: [hide92795CoreLib]
+softdepend: [dynmap]
+
+commands:
+  vanish-reload:
+    permission: vanishplayer.reload
+  vanish-list:
+    permission: vanishplayer.list
+  vanish:
+    permission: vanishplayer.vanish
+  unvanish:
+    permission: vanishplayer.unvanish

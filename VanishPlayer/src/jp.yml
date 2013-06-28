@@ -1,0 +1,8 @@
+Vanish: "&c透明化しました。"
+AlreadyVanished: "&c既に透明化しています。"
+Unvanish: "&c透明化を解除しました。"
+AlreadyUnvanished: "&c既に解除されています。"
+NoVanishedPlayer: "&c透明化しているプレイヤーはいません。"
+VanishedPlayer: "&c透明化しているプレイヤー: %1$s"
+ReloadedSetting: "&6設定をリロードしました。"
+ErrorReloadSetting: "&cリロード中にエラーが発生しました。"
